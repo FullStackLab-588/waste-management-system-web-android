@@ -100,6 +100,3 @@ Initially developed as a **web-based system**, the project was later transitione
 - Smart bin integration
 - GPS tracking for waste bins
 - Hardware integration for automated sorting
-
-## 📱 Android App Structure
-
