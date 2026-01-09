@@ -88,7 +88,6 @@ Initially developed as a **web-based system**, the project was later transitione
 - Lightweight & fast
 - User-friendly UI
 
-- 
 🚀 Results & Performance
 - Accuracy: **91%**
 - Real-time predictions
